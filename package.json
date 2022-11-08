@@ -1,0 +1,24 @@
+{
+  "name": "banking-server",
+  "version": "1.0.0",
+  "description": "banking RESTful API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salimdellali/banking-server.git"
+  },
+  "keywords": [
+    "banking",
+    "transactions",
+    "RCSM"
+  ],
+  "author": "Salim DELLALI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salimdellali/banking-server/issues"
+  },
+  "homepage": "https://github.com/salimdellali/banking-server#readme"
+}
